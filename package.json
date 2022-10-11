@@ -10,7 +10,7 @@
     "react": "16.6.3",
     "react-art": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-native": "0.58.6",
+    "react-native": "0.70.2",
     "react-native-web": "^0.10.0",
     "react-navigation": "^3.3.2",
     "tcomb-form-native": "^0.6.20"
